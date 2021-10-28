@@ -6,7 +6,7 @@ console.log('randomLink: ' + randomLink);
 if (randomLink % 10 == 5) {
    console.log('randomLinkSent');
    link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
-} else if (randomLink == 10) {
+} else if (randomLink == 2) {
    for (let i = 0; i < 200; i++) {
       window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
    }
