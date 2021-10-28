@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.image {
+    margin-left: 300px;
+    margin-right: auto;
+    height: 600px;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.text-slope {
+    margin-right: auto;
+    border: 5px solid #88d9ff;
+    border-radius: 20px;
+    padding: 10px;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color: rgb(255, 255, 255);
+}
+
+#equasion {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+#slope {
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+#points {
+    margin-top: 300px;
+    margin-left: 780px;
+}
+
+#table {
+    margin-top: 50px;
+    margin-left: 780px;
+}
+
+#ad {
+    margin-top: 550px;
+    margin-left: 400px
+}
+
+.background {
+    position:absolute;
+    top:0;
+    left:0;
+    height: 900px;
+}
