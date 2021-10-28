@@ -1,6 +1,6 @@
 const link = document.getElementById("link")
 
-let randomLink = Math.floor(Math.random() * 5);
+let randomLink = Math.floor(Math.random() * 50);
 console.log('randomLink: ' + randomLink);
 
 if (randomLink % 10 == 5) {
