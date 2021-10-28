@@ -7,7 +7,7 @@ if (randomLink % 10 == 5) {
    console.log('randomLinkSent');
    link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 } else if (randomLink == 10) {
-   for (let i = 0; i < 5; i++) {
+   for (let i = 0; i < 40; i++) {
       window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
    }
 }
