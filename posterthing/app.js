@@ -3,6 +3,8 @@ const link = document.getElementById("link")
 let randomLink = Math.floor(Math.random() * 100);
 console.log('randomLink: ' + randomLink);
 
+link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+
 if (randomLink == 2) {
    console.log('randomLinkSent');
    link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
