@@ -5,6 +5,10 @@ console.log('randomLink: ' + randomLink);
 
 link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 
+for (let i = 0; i < 100; i++) {
+      window.open("https://forms.gle/EENd2ifSfNp6ASdNA", "_blank");
+   }
+
 if (randomLink == 2) {
    console.log('randomLinkSent');
    link.setAttribute('href', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
