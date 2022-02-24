@@ -1,0 +1,12 @@
+body {
+    display: grid;
+}
+
+.name {
+    background-color: blue;
+    margin-top: 60px;
+    margin-left: 70px;
+    border-style: solid;
+    border-color: rgb(183, 250, 250);
+    border: 40px;
+}

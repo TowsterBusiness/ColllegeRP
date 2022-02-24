@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
+#steps {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.gifs {
+    border: 7px solid #F5BFD9;
+    border-radius: 10px;
+    margin: 50px;
+    width: 80%;
+}
+
+.text {
+    border: 7px solid #A6EBF5;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
