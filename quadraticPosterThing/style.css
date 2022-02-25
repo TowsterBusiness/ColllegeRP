@@ -6,16 +6,27 @@
     font-family: 'Roboto Serif', sans-serif;
 }
 
-.gifs {
+.blue {
+    border: 7px solid #A6EBF5;
+    border-radius: 10px;    
+}  
+
+.pink {
     border: 7px solid #F5BFD9;
     border-radius: 10px;
+}
+
+.gifs {
     margin: 50px;
     width: 80%;
+    background-color: white;
+    position: relative;
 }
 
 .text {
-    border: 7px solid #A6EBF5;
-    border-radius: 10px;
     margin: auto;
-    padding: 10px;
+    padding: 30px;
+    font-size: 40px;
+    position: relative;
+    z-index: -100;
 }
