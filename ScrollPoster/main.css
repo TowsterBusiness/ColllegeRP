@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
 body {
-  font-family: 'Montserrat';
+  font-family: 'Roboto Serif', sans-serif;
   padding: 3em;
 }
 
@@ -41,7 +43,7 @@ section {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 4em;
   background: #fff;
   display: inline-block;
   padding: 10px 15px;
@@ -50,7 +52,7 @@ h1 {
   margin: 0;
 }
 p { 
-  font-size: 2.5em; 
+  font-size: 3em; 
   background: #fff;
   display: inline-block;
   padding: 10px 15px;
