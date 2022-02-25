@@ -9,7 +9,7 @@ body {
   position: fixed;
   top: 30%;
   right: 60px;
-  width: 1000px;
+  width: 400px;
   background-color: white;
   border: 7px solid #F5BFD9;
   border-radius: 10px;
@@ -43,7 +43,7 @@ section {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 2em;
   background: #fff;
   display: inline-block;
   padding: 10px 15px;
@@ -52,7 +52,7 @@ h1 {
   margin: 0;
 }
 p { 
-  font-size: 3em; 
+  font-size: 1.5em; 
   background: #fff;
   display: inline-block;
   padding: 10px 15px;
